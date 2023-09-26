@@ -1,1 +1,2 @@
 ini file a.txt
+ini file punya rimaya
